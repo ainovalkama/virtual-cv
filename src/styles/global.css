@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Prata&display=swap');
+
+* {
+    color: black;
+    font-family: "Abril Fatface";
+}
+
+main {
+    margin-top: 30px;
+}
+
+html,  body {
+    min-height: 100%;
+}
+
+body {
+    background: white;
+    background-repeat: no-repeat;
+}
+
+.layout {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+img {
+    border-style: none;
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    margin-bottom: 1.45rem;
+  }
+
+nav {
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 1800px;
+    position: fixed;
+    width: 100%;
+    left: 0px;
+    right: 0px;
+    top: 0;
+    z-index: 9999;
+    height: 250px;
+
+}
+
+nav .Links {
+    display: inline-block;
+    text-align: right;
+}
+
+nav a {
+    display: inline-block;
+    margin-left: 40px;
+    font-weight: 500;
+    padding-bottom: 8px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 200%;
+    padding: 180px 50px 50px 50px;
+    top: 80px;
+    white-space: normal;
+    line-height: 15px;
+
+}
+
+nav a:hover {
+    color:rgb(233, 131, 14);
+}
+
+
+footer h1 {
+    color: rgb(233, 131, 14);
+    bottom: 0;
+    font-size: 98%;
+    width: 50%;
+    text-align: center;
+    padding: 25px 0;
+    position:fixed;
+    display:block;
+
+}
+
+footer p {
+    color: rgb(233, 131, 14);
+    bottom: 0;
+    font-size: 60%;
+    width: 50%;
+    text-align: center;
+    padding: 10px 0;
+    position:fixed;
+    display:block;
+
+}
+
+.Error {
+    text-align: center;
+    position: fixed;
+    width: 50%;
+    padding-top: 400px;
+}
+
+.Error a {
+    text-decoration: none;
+}
+
+.Error a:hover {
+    color:rgb(233, 131, 14)
+}
+
+.Content {
+    position: absolute;
+    background-color: black;
+    left: 0;
+    right: 0;
+    height: 60%;
+    top: 90px;
+}
+
+.Content p  {
+    display: block;
+    position: absolute;
+    padding: 30px;
+    text-align: left;
+    top: 400px;
+    width: 100%;
+    color: white;
+}
+
+.Content h1 {
+    color: white;
+    position: absolute;
+    padding: 40px;
+    text-align: left;
+    top: -170px;
+    width: 50%;
+    line-height: 10;
+}
+
+.Content h2 {
+    color:white;
+    text-transform: uppercase;
+    font-size: 500%;
+    position: absolute;
+    padding: 40px;
+    text-align: left;
+    top: 300px;
+    width: 50%;
+    padding: 30px;
+}
+
+.Content .a p{
+    color: white;
+    font-size: 220%;
+    top: 470px;
+    left: 40px;
+}
+
+.Content .b p{
+    color: white;
+    top: 650px;
+    left: 110px;
+    font-size: 130%;
+}
+
+.Content .c p{
+    color: white;
+    font-size: 160%;
+    top: 500px;
+    left: 360px;
+}
+
+.Content .d p{
+    color: white;
+    font-size: 120%;
+    top: 570px;
+    left: 333px;
+}
+
+.Content .e p{
+    color: white;
+    font-size: 160%;
+    top: 650px;
+    left: 400px;
+}
+
+.Content .a p:hover {
+    color: rgb(233, 131, 14);
+}
+
+.Content .b p:hover {
+    color: rgb(233, 131, 14);
+}
+
+.Content .c p:hover {
+    color: rgb(233, 131, 14);
+}
+
+.Content .d p:hover {
+    color: rgb(233, 131, 14);
+}
+
+.Content .e p:hover{
+    color: rgb(255, 102, 0);
+    font-size: 200%;
+}
+
+.Content2 {
+    position: absolute;
+    background-color: white;
+    width: 150%;
+    height: 100%;
+    top: 1000px;
+    left: 0px;
+    right: 0px;
+}
+
+.Content2 h1{
+    font-size: 240%;
+    left: 1000px;
+    position: absolute;
+    color: black;
+}
+
+.Content2 img {
+    padding: 20px;
+    align-self: center;
+    position:absolute;
+}

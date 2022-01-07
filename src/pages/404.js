@@ -1,14 +1,16 @@
-import * as React from "react"
+import React from 'react'
+import { Link } from 'gatsby'
+import Layout from '../components/Layout'
+import { StaticImage } from "gatsby-plugin-image"
 
-import Layout from "../components/layout"
-import Seo from "../components/seo"
 
-const NotFoundPage = () => (
-  <Layout>
-    <Seo title="404: Not found" />
-    <h1>404: Not Found</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-  </Layout>
-)
-
-export default NotFoundPage
+export default function NotFound() {
+    return (
+        <Layout>
+        <div className="Error">
+            <h1>Tätä sivua ei ole olemassa :(</h1>
+                <Link to="/">Takaisin etusivulle!</Link>
+            </div>
+        </Layout>
+    )
+}
