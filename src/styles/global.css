@@ -272,13 +272,15 @@ body {
 .volunteering-experience .guild {
     flex: 0 0 50%;
     margin-left: 15%;
+    margin-top: 1%;
+    margin-right: 2%;
 }
 
 .volunteering-experience .picture img {
     border-radius: 60%;
     width: 90%;
     height: auto;
-    margin-top: 0%;
+    margin-top: 6%;
     margin-left: 3%;
     margin-bottom: 10%;
 }
