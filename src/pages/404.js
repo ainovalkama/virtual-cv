@@ -7,9 +7,9 @@ import { StaticImage } from "gatsby-plugin-image"
 export default function NotFound() {
     return (
         <Layout>
-        <div className="Error">
-            <h1>Tätä sivua ei ole olemassa :(</h1>
-                <Link to="/">Takaisin etusivulle!</Link>
+        <div className="error">
+            <h1>Tätä sivua ei ole olemassa :(<br /></h1>
+             <h2><Link to="/">Takaisin etusivulle!</Link></h2>
             </div>
         </Layout>
     )
