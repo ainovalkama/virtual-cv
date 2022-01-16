@@ -5,9 +5,11 @@
 }
 
 .footer h1 {
+    color: rgb(58, 56, 56);
     font-size: 0.8vw;
 }
 
 .footer p {
+    color: rgb(58, 56, 56);
     font-size: 0.6vw;
 }
