@@ -38,16 +38,18 @@ const IndexPage = () => (
         <h2>Ihmisenä</h2>
       <p>
       Helsingissä varttunut, avoin ja sanavalmis toisen vuoden informaatioteknologian opiskelija. <br />
-      Tärkeimpiä harrastuksiani ovat lukeminen, kirjoittaminen, elokuvat ja matkustelu. 
+      Tärkeimpiä harrastuksiani ovat lukeminen, kirjoittaminen, elokuvat ja matkustelu. <br />
+      Minulle tärkeitä arvoja ovat luonto, rehellisyys, tasa-arvoisuus ja oikeudenmukaisuus :)
 
       <br /><br />
       </p>
-      <h3>Työntekijänä</h3>
+      <h3>Työnhakijana</h3>
       <p>
-      Vahvuuksiani työelämässä ovat sopeutumiskyky, yhteistyötaidot, kyky toimia itsenäisesti ja vastuullisesti sekä tarkkuus. 
-      Ensimmäiset työsuhteeni solmin jo yläasteaikoina kesätyöläisenä, ja olen oppinut lukuisten työkokemusten kautta toimimaan ja sopeutumaan uusissa työympäristöissä eri rooleissa. 
-      Työkokemuksen lisäksi vaihtovuoteni Yhdysvalloissa ja opiskelija-aktiivina toimiminen yliopistoaikana ovat vahvistaneet yhteistyötaitojani.
-      Olen toiminut menestyksekkäästi useammassa vastuutehtävässä, sekä "oikeissa" että vapaaehtoistöissä, ja minuun on voinut luottaa jokaisessa.
+      Minua kiinnostavat erityisesti kaikki työmahdollisuudet koodin parissa sekä insinöörityö yleisesti. Olen innostunut kehittämään teknologiaa ja sitä ympäröivää kulttuuria niin, että <br/>
+      tavoitteena on parempi ja saavutettavampi maailma jokaiselle. <br/>
+      Myös työyhteisöni hyvinvointi on minulle tärkeä arvo, ja haluan olla mukana rakentamassa hyvää työkulttuuria siellä, missä ikinä
+      olenkin. <br/>
+      
       
       </p>
       </div>
