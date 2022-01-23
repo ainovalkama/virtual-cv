@@ -10,6 +10,9 @@ Fontit ovat peräisin Google Fonts-palvelusta.
 
 Verkkosivun pohjana olen alkuun käyttänyt gatsby-starter-default-pohjaa, mutta koodannut melkein jokaisen sivuston osan itse.
 
+Projekti on aina "work in progress", ja tarkoituksenani on päivitellä ja parannella sitä hamaan ikuisuuteen. Tällä hetkellä (tammikuu 2022) sivusto on ensimmäinen kokonainen versio,
+joka on nähnyt päivänvaloa.
+
 ## EN
 
 This is my virtual CV.
@@ -20,6 +23,8 @@ The logo icons are used on a Creative Commons-license and are from Freeicons (ht
 All fonts are from Google Fonts.
 
 I started developing this website based on the gatsby-starter-default, but I have coded everything mostly myself.
+
+The project is always a work in progress, and I plan to update and better it forever. At this moment (January 2022) the page is the first version to ever see daylight.
 
 
 ## HOW TO RUN (development build)
