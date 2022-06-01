@@ -22,8 +22,8 @@ const IndexPage = () => (
          Moi!<br /></h1>
          <h2>
          Olen Aino Valkama, teekkari Aalto-yliopistosta. Tämä on virtuaalinen CV:ni.<br /><br />
-         Lyhyesti: tykkään koodaamisesta ja teknologiasta yleisesti, <br />
-         sekä monitieteellisyydestä ja uusista, erityisesti humanistisista näkökulmista<br/> teknologian kehittämiseen.<br /><br />
+         Lyhyesti: tykkään monitieteellisyydestä ja teknologiasta yleisesti, <br />
+         sekä uusista, erityisesti humanistisista näkökulmista<br/> teknologian kehittämiseen.<br /><br />
          Vähän pidemmin: scrollaa alas, nettisivuni kertovat sinulle mielellään lisää!</h2>
        </div>
        </div>
@@ -45,7 +45,8 @@ const IndexPage = () => (
       </p>
       <h3>Työnhakijana</h3>
       <p>
-      Minua kiinnostavat erityisesti työmahdollisuudet koodin parissa, insinöörityö yleisesti, sekä paikat, missä pääsen soveltamaan muita kiinnostuksenkohteitani tekniseen työhön.
+      Minua kiinnostavat erilaiset monitieteelliset mahdollisuudet - haluan päästä yhdistämään kiinnostukseni teknologiaan <br /> 
+      esimerkiksi tuotekehityksen, kauppatieteiden, psykologian ja markkinoinnin kanssa. 
       Olen innostunut kehittämään teknologiaa ja sitä ympäröivää kulttuuria niin, että <br/>
       tavoitteena on parempi ja saavutettavampi maailma jokaiselle. <br/>
       Myös työyhteisöni hyvinvointi on minulle tärkeä arvo, ja haluan olla mukana rakentamassa hyvää työkulttuuria siellä, missä ikinä
